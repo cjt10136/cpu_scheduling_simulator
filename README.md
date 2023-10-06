@@ -9,20 +9,19 @@ Algorithms to compare:
 - Shortest job first (preemptive)
 
 # Structure Charts
-![image](https://github.com/cj2yt11/cpu_scheduling_simulator/assets/147161189/06237b83-817b-40b2-938c-66d0edc66fff)
-![image](https://github.com/cj2yt11/cpu_scheduling_simulator/assets/147161189/e52ebcdf-c6b1-4313-8eec-dae4a8a2fb82)
+![image](https://github.com/cjt10136/cpu_scheduling_simulator/assets/147172598/d484bb30-cefb-4fdf-8b14-dd6056c15804)
+![image](https://github.com/cjt10136/cpu_scheduling_simulator/assets/147172598/50ffe31a-29e0-495a-8a0d-1c0079c1fd0a)
 
 
 # Flow Chart and Pseudo Code
 - ### First Come, First Serve Scheduling
-![image](https://github.com/cj2yt11/cpu_scheduling_simulator/assets/147161189/243dca2e-113f-4ce0-9c14-a2cebb84bed8)
+![image](https://github.com/cjt10136/cpu_scheduling_simulator/assets/147172598/682decde-d345-4243-835c-3c4f83aea7b1)
 
 - ### Round Robin Scheduling
-![image](https://github.com/cj2yt11/cpu_scheduling_simulator/assets/147161189/222d9f15-1714-404e-aa96-bf0a4cf4071b)
+![image](https://github.com/cjt10136/cpu_scheduling_simulator/assets/147172598/f256bd82-b907-478c-bd36-a052eedfd5c0)
 
 - ### Shortest Job First Scheduling (Preemptive)
-![image](https://github.com/cj2yt11/cpu_scheduling_simulator/assets/147161189/02fabe3e-d3e3-436b-bd02-1db197ca45f9)
+![image](https://github.com/cjt10136/cpu_scheduling_simulator/assets/147172598/6ae76de4-973d-404b-96e2-eb4dcdd0875b)
 
 - ### Shortest Job First Scheduling (NON-Preemptive)
-![image](https://github.com/cj2yt11/cpu_scheduling_simulator/assets/147161189/6fd327e7-3c18-4466-9787-5dc4e781eb9e)
-
+![image](https://github.com/cjt10136/cpu_scheduling_simulator/assets/147172598/fc7089d5-a87a-4488-a971-0bbdb78eb028)
